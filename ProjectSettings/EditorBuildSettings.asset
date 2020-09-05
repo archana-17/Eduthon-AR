@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: 03b7085bdad878740aac4ef13b283c25
+  - enabled: 1
+    path: Assets/Scenes/Choice_Menu.unity
+    guid: 2e44fad0861d02d41aeae8206d68deb2
+  - enabled: 1
+    path: Assets/Scenes/Alphabets.unity
+    guid: 03497062d52144c30a1a29b9de90ab88
+  - enabled: 1
+    path: Assets/Scenes/Numbers.unity
+    guid: 0309cbd5490f84b20b60cffda97a53ee
+  - enabled: 1
+    path: Assets/Scenes/Rhymes_Menu.unity
+    guid: 8539fcd49d7734c40ba0d0136d2aa7f5
+  - enabled: 1
+    path: Assets/Scenes/colors.unity
+    guid: 2820abbfa7a7b4c169e474943676aaea
+  - enabled: 1
+    path: Assets/Scenes/BabaBlackSheep.unity
+    guid: 1ccc1040e4cef48d98f6751ee942ed8b
+  - enabled: 1
+    path: Assets/Scenes/Twinkle_Twinkle.unity
+    guid: 453f21ffb46f34b48bd38dc6f57044db
+  - enabled: 1
+    path: Assets/Scenes/JohnyJohny.unity
+    guid: 9b36bee4e648545e183a47f8d97ccb2e
+  - enabled: 1
+    path: Assets/Scenes/JackAndJill.unity
+    guid: 5665b76d076dd44fd9b4bf995dfc1db5
+  - enabled: 1
+    path: Assets/Scenes/HumptyDumpty.unity
+    guid: efe5c8012d43a477e9f4531c2d249445
+  - enabled: 1
+    path: Assets/Scenes/Shapes.unity
+    guid: 7dcf528a218a14fa2b05aac6486f465e
+  m_configObjects:
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: af496c2d0359e4dfe947069f0744c682,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1d50913321b2a481e98624cc8a987db5,
+      type: 2}
