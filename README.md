@@ -47,3 +47,7 @@ We chose to allow only one object to be instantiated because considering our tar
 The back buttons are used to move to the previous scene and give the user the flexibility to have multiple choices.
 
 <img src= "images/backbutton.jpg" width= 400 height= 400>
+
+<h3>References:</h3>
+&#9672 EchoAR : <a href="https://docs.echoar.xyz/">EchoAR documentation</a><br>
+&#9672 Unity : <a href="https://docs.unity3d.com/Manual/index.html">Unity documentation</a><br>
