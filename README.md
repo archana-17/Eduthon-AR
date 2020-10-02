@@ -9,7 +9,6 @@ FunLearn incorporates Augmented Reality to help children take their first step i
 
 We have kept the UI attractive to catch the child's attention yet simple to use.<br>
 Demo Video: <a>https://drive.google.com/folderview?id=1zGgXT6HzgcESBC-soxztMvYUlzcYCNwJ </a><br>
-Apk: <a>https://drive.google.com/file/d/1usF9GEDHnmEF0tCBP3dzd6ySHD39dX-s/view?usp=sharing</a><br>
 
 Let’s start with the functioning of the app:
 
